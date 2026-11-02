@@ -658,6 +658,15 @@
       "skillFolderHash": "741c529ebbdc9f62c9362593701a6968267af6e6",
       "installedAt": "2026-10-28T09:49:29.800Z",
       "updatedAt": "2026-10-28T09:49:29.800Z"
+    },
+    "git-workflow-and-versioning": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/git-workflow-and-versioning/SKILL.md",
+      "skillFolderHash": "3919738ebf5099160a723ef57abc3135fbf9d575",
+      "installedAt": "2026-11-02T07:19:38.275Z",
+      "updatedAt": "2026-11-02T07:19:38.275Z"
     }
   },
   "dismissed": {
